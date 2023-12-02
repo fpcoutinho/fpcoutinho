@@ -1,4 +1,4 @@
-# Hi, there! :wave:
+# Hi, there!
 
 I am Filipe Coutinho, a Computer Science undergrad student from Patos, Paraíba.<br> 
 I've been living in João Pessoa, capital of Paraíba for 6 years, where, amongst many things, I've been studying Computer Science at the Federal University of Paraíba ([UFPB](http://www.ci.ufpb.br/)).<br>
@@ -6,10 +6,10 @@ Currently, I'm enrolled in the final semester of the bachelor's program, and I'm
 In the past, I had the opportunity to spend two semesters of my graduation studying abroad at [Siena College](https://www.siena.edu/).<br>
 An interesting fact about me is that I have two cats, and during my years at UFPB I co-founded a students group for the protection of the stray animals abandoned on campus 🐈‍⬛🐕<br>
 
-## Reach out! :pushpin:
+## Reach out!
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipepcoutinho/)
 
-## Hard Skills :computer:
+## Hard Skills
 
 ![javascrip](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
@@ -32,6 +32,6 @@ An interesting fact about me is that I have two cats, and during my years at UFP
 ![google-cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## Github stats :chart_with_upwards_trend:
+## Github stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fpcoutinho&layout=compact&theme=gruvbox)](https://github.com/fpcoutinho/github-readme-stats)
