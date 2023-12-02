@@ -1,7 +1,7 @@
 # Hi, there! :wave:
 
 I am Filipe Coutinho, a Computer Science undergrad student from Patos, Paraíba.<br> 
-I've been living in João Pessoa, capital of Paraíba for 6 years, where, amongs many things, I've been studying Computer Science at the Federal University of Paraíba ([UFPB](http://www.ci.ufpb.br/)).<br>
+I've been living in João Pessoa, capital of Paraíba for 6 years, where, amongst many things, I've been studying Computer Science at the Federal University of Paraíba ([UFPB](http://www.ci.ufpb.br/)).<br>
 Currently, I'm enrolled in the final semester of the bachelor's program, and I'm working as a Trainee in the Front End Architecture and Platform team at [Mercado Bitcoin](https://www.mercadobitcoin.com.br/quem-somos).<br>
 In the past, I had the oppotunity to spend two semesters of my graduation studying abroad at [Siena College](https://www.siena.edu/).<br>
 An interesting fact about me is that I have two cats, and during my years at UFPB I, together with a group of friends, was a co-founder of a students group for the protection of the stray animals abandoned on campus 🐈‍⬛🐕<br>
