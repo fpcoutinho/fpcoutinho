@@ -2,7 +2,7 @@
 
 I am Filipe Coutinho, a Software Engineer from Patos, Paraíba.<br> 
 I've been living in João Pessoa, capital of Paraíba for 6 years, where, amongst many things, I've studied Computer Science at the Federal University of Paraíba ([UFPB](http://www.ci.ufpb.br/)).<br>
-Currently, I'm working as a Software Developer in the Front End Architecture and Platform team at [Mercado Bitcoin](https://www.mercadobitcoin.com.br/quem-somos), where I've mostly been responsible for the building, testing and documentation of our Design System: Atmosfera.<br>
+Currently, I'm working as a Software Engineer in the Front End Architecture and Platform team at [Mercado Bitcoin](https://www.mercadobitcoin.com.br/quem-somos), where I've mostly been responsible for the building, testing and documentation of our Design System: Atmosfera.<br>
 In the past, I had the opportunity to spend two semesters of my graduation studying abroad at [Siena College](https://www.siena.edu/).<br>
 An interesting fact about me is that I have two cats, and during my years at UFPB I co-founded a students group for the protection of the stray animals abandoned on campus 🐈‍⬛🐕<br>
 
@@ -23,8 +23,6 @@ An interesting fact about me is that I have two cats, and during my years at UFP
 ![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
