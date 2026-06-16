@@ -2,7 +2,7 @@
 
 I am Filipe Coutinho, a Software Engineer from Patos, Paraíba.<br> 
 I've been living in João Pessoa, capital of Paraíba for 9 years, where, amongst many things, I've studied Computer Science at the Federal University of Paraíba ([UFPB](http://www.ci.ufpb.br/)).<br>
-I'm a Software Engineer with experience building financial platforms, scalable web applications, and high-availability APIs.
+Experienced with building financial platforms, scalable web applications, and high-availability APIs.
 I have delivered solutions for asset trading, trading-platform integrations, and financial data visualization widgets, with a strong focus on performance, scalability, and user experience.
 My background includes software architecture, backend development with Node.js and TypeScript, microfrontend applications, native Web Components, and Backend-for-Frontend (BFF) architectures. I also led the design and implementation of a complete Design System, covering architecture, documentation, testing, and component governance to standardize and accelerate development across multiple products.
 I am currently focused on backend engineering, API design, and platform architecture, building reliable and scalable systems that support product growth.
