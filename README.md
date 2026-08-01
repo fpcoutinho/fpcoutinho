@@ -28,4 +28,4 @@ And an interesting fact about me is that during my years at UFPB I helped co-fou
 
 ## Github stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fpcoutinho&layout=compact&theme=gruvbox)](https://github.com/fpcoutinho/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=fpcoutinho&layout=compact&theme=gruvbox)](https://github.com/fpcoutinho/github-readme-stats)
